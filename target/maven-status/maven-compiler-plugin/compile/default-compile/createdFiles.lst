@@ -1,0 +1,9 @@
+com\exercice\Main.class
+com\exercice\repositories\TagRepository.class
+com\exercice\repositories\DetailsRepository.class
+com\exercice\models\Details.class
+com\exercice\models\Comment.class
+com\exercice\repositories\CommentRepository.class
+com\exercice\models\Tag.class
+com\exercice\repositories\PostRepository.class
+com\exercice\models\Post.class
